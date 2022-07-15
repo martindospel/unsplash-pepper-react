@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`about renders correctly 1`] = `
+<div
+  className="about"
+>
+  <h2
+    className="about__title"
+  >
+    Pepper.js
+  </h2>
+  <p
+    className="about__desc"
+  >
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus quibusdam nulla obcaecati et quis pariatur. Eveniet adipisci earum fugit aperiam commodi quo ex quia nemo dolorum voluptates! Accusantium repellendus modi ipsum ullam, ipsa maxime recusandae commodi consequatur, alias fuga, doloribus cumque? Temporibus iste consectetur voluptate molestiae, corporis mollitia repellat nihil aperiam rerum hic suscipit, fugiat quis praesentium delectus nulla similique cupiditate illum molestias corrupti vel sed aliquam? Omnis quas, optio modi incidunt minima aspernatur fuga cum culpa? Similique architecto quas saepe velit odit officia accusantium quasi recusandae nostrum fugit sint, iusto sed magni vitae voluptates sequi impedit quibusdam laboriosam dicta! Mollitia eos dolorem dicta quaerat deleniti beatae dolores quisquam quos tempora placeat amet nesciunt labore recusandae quod, unde saepe! Eligendi deleniti facilis, ratione, ut iusto nemo hic molestias modi temporibus excepturi consequatur ea aperiam placeat cupiditate consectetur. Delectus dicta ipsum minus eum soluta pariatur fugiat. Odit tempora illo nisi accusantium, inventore eum unde cum possimus rem nihil dolorem animi, et, ratione distinctio fugiat optio quis. Dolore accusantium sint magnam commodi minus eum voluptatum enim, natus iusto. At vero iusto aut vel esse illo minus rerum voluptatibus velit veritatis inventore, aliquam harum numquam est temporibus exercitationem voluptas nulla ipsam minima aperiam!
+  </p>
+</div>
+`;
+
+exports[`gallery renders correctly 1`] = `
+<div
+  className="content__images"
+>
+  <div
+    className="content__no-image-text"
+  >
+    Please use the searchbar to search for something!
+  </div>
+</div>
+`;
